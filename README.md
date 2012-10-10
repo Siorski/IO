@@ -1,1 +1,1 @@
-Projekt systemu wspomagajacego zarzadzanie komisem samochodowym.
+Projekt systemu wspomagającego zarządzanie komisem samochodowym.
